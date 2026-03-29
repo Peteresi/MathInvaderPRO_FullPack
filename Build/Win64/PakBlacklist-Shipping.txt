@@ -1,0 +1,5 @@
+# This file lists pak file entries to exclude from the Windows 64-bit build.
+# Add paths relative to the game content root, one per line.
+# Example:
+# /Game/TestMaps/
+# /Game/DeveloperContent/
